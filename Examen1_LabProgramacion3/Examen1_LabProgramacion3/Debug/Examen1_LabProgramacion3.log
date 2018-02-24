@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\jefersson\source\repos\examen1_labprogramacion3\examen1_labprogramacion3\main.cpp(104): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\jefersson\source\repos\examen1_labprogramacion3\examen1_labprogramacion3\main.cpp(108): warning C4244: 'return': conversión de 'int' a 'float'; posible pérdida de datos
+  Examen1_LabProgramacion3.vcxproj -> C:\Users\jefersson\source\repos\Examen1_LabProgramacion3\Debug\Examen1_LabProgramacion3.exe
